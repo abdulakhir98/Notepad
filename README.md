@@ -7,10 +7,11 @@ This is a Notepad just like a windows notepad.
 - Save a document
 - Update/Edit a Document
 
-## Language
-C++
-
 ## How to use
 Open it on Visual Studio Code.
 
 Run it.
+
+
+## Language
+- C++
